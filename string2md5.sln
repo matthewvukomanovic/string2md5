@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "string2md5", "string2md5\string2md5.csproj", "{1118612F-C3EC-4A51-8C52-0DF5FE68F527}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "string2md5g", "string2md5g\string2md5g.csproj", "{97B1D06E-8B4F-4BA6-9FB1-50E512BA1D74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1118612F-C3EC-4A51-8C52-0DF5FE68F527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1118612F-C3EC-4A51-8C52-0DF5FE68F527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1118612F-C3EC-4A51-8C52-0DF5FE68F527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1118612F-C3EC-4A51-8C52-0DF5FE68F527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97B1D06E-8B4F-4BA6-9FB1-50E512BA1D74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97B1D06E-8B4F-4BA6-9FB1-50E512BA1D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97B1D06E-8B4F-4BA6-9FB1-50E512BA1D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97B1D06E-8B4F-4BA6-9FB1-50E512BA1D74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
